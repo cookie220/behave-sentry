@@ -1,0 +1,8 @@
+.idea/
+dist/
+sentry/shared_features/test.feature
+sentry/shared_features/test1.feature
+sentry/__pycache__/
+sentry/utilities/__pycache__/
+sentry/utilities/common/__pycache__/
+sentry/utilities/log/__pycache__/
